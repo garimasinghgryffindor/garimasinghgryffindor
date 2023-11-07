@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garimasinghgryffindor&show_icons=true&locale=en&layout=compact" alt="garimasinghgryffindor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garimasinghgryffindor&show_icons=true&locale=en" alt="garimasinghgryffindor" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garimasinghgryffindor&" alt="garimasinghgryffindor" /></p>
