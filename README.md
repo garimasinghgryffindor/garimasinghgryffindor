@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Garima Singh</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
+![](https://komarev.com/ghpvc/?username=garimasinghgryffindor&label=PROFILE+VIEWS)
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **react, node**
